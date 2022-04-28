@@ -4,7 +4,7 @@ This Markdown decoumnt contains instructions for preparing our custom data to be
 
 ### Before you begin
 
-This guide requires you to clone the [Nvidia StyleGAN2](https://github.com/NVlabs/stylegan2-ada) repository.
+This guide requires you to clone this repository.
 
 ### Steps:
 
