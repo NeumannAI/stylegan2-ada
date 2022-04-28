@@ -17,7 +17,7 @@ gcloud config set project PROJECT_ID
 - Load it into the Juypter Notebook on the Google Cloud
 
 
-#### 1- Create storage buckets
+### 1- Create storage buckets
 
 In the Google Cloud Console:
 - Go to the Cloud Storage Browser page from the menu on the left side of the console.
